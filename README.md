@@ -1,4 +1,4 @@
-🧩 Observación 4 – Soporte y Seguridad de Aplicaciones  
+Observación 4 – Soporte y Seguridad de Aplicaciones  
 
 **Curso:** SSA – III Trimestre  
 **Sección:** 11°D  
