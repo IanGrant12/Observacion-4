@@ -8,29 +8,28 @@ Observación 4 – Soporte y Seguridad de Aplicaciones
 
 
 
-🎯 Objetivo  
+Objetivo  
 Aplicar herramientas esenciales del **aseguramiento de la calidad de software**, desde la planificación y 
 ejecución de pruebas hasta la documentación y gestión de defectos, utilizando metodologías y entornos reales de testing profesional.
 
 
 
-🧠 Resumen del proyecto  
+Resumen del proyecto  
 En esta observación se trabajó con el sitio web de pruebas **Geek Store – Your buggy e-commerce**, 
 implementando un proceso completo de **QA (Quality Assurance)** mediante diversas herramientas de testing y gestión de proyectos.  
 
-Se configuró un **entorno de pruebas** con las siguientes herramientas:
+Se configuró un entorno de pruebas con las siguientes herramientas:
 
-- 🧾 **TestRail:** gestión y ejecución de casos de prueba.  
-- ⚙️ **Test Case Studio:** generación automática de casos de prueba desde el navegador.  
-- 🧩 **JIRA:** administración del flujo de trabajo SCRUM con las columnas  
-  `Backlog → To Do → In Progress → Testing → Done`.  
-- 💻 **Chrome DevTools / Lighthouse:** medición de rendimiento, accesibilidad y buenas prácticas.  
-- 🌐 **BrowserStack:** verificación de compatibilidad en distintos navegadores (Chrome, Edge, Firefox) y dispositivos (laptop, tablet, smartphone).  
-
+- **TestRail:** gestión y ejecución de casos de prueba.  
+- **Test Case Studio:** generación automática de casos de prueba desde el navegador.  
+- **JIRA:** administración del flujo de trabajo SCRUM con las columnas  
+- **Chrome DevTools / Lighthouse:** medición de rendimiento, accesibilidad y buenas prácticas.  
+- **BrowserStack:** verificación de compatibilidad en distintos navegadores (Chrome, Edge, Firefox) y dispositivos (laptop, tablet, smartphone).  
 
 
-📁 Repositorio GitHub  
-Se creó el repositorio **`Observacion-4`** con el objetivo de centralizar toda la documentación, reportes y evidencias del proceso de pruebas.  
+
+Repositorio GitHub  
+Se creó el repositorio Observacion-4 con el objetivo de centralizar toda la documentación, reportes y evidencias del proceso de pruebas.  
 El repositorio incluye:
 
 - Capturas de pantalla del tablero SCRUM y de la ejecución de pruebas.  
@@ -41,7 +40,7 @@ El repositorio incluye:
 
 
 
-✅ Actividades realizadas  
+Actividades realizadas  
 
 - Creación de **User Stories** para representar los requerimientos del usuario.  
 - Diseño y ejecución de **5 casos de prueba** abarcando pruebas funcionales, exploratorias y de validación.  
@@ -52,7 +51,7 @@ El repositorio incluye:
 
 
 
-📊 Conclusiones  
+Conclusiones  
 Este proyecto permitió aplicar de forma práctica los principios del **aseguramiento de calidad de software (QA)**, 
 comprendiendo la importancia del control de versiones, la documentación clara de errores y el uso de herramientas 
 profesionales para testing.  Además, reforzó el trabajo colaborativo y la comunicación entre los miembros del equipo, 
