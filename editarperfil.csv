@@ -1,0 +1,10 @@
+,OS: Windows 11 | Browser: Chrome 142 | Resolution: 1536x816 | Time: 13 Nov 2025 / 14:55:28  GMT-6
+
+"#","Step","Data","Exp Result","XPath","cssSelector"
+"1","Open website","https://testing.geekqa.net/public_html/public/index.php/my-account","","",""
+"2","Enter ""12345678"" into ""Phone Number""","12345678","","//input[@placeholder='Phone Number']","input[placeholder='Phone Number']"
+"3","Click on ""Update""","","","//button[normalize-space()='Update']","button[type='submit']"
+"4","Enter ""San jose, mora, ciudad colon, recidencial bulevard las palma"" into ""Street Address""","San jose, mora, ciudad colon, recidencial bulevard las palma","","//input[@placeholder='Street Address']","input[placeholder='Street Address']"
+"5","Enter ""Mora"" into ""City""","Mora","","//input[@placeholder='City']","input[placeholder='City']"
+"6","Enter ""San José"" into ""State""","San José","","//input[@placeholder='State']","input[placeholder='State']"
+"7","Click on ""Update""","","","//button[normalize-space()='Update']","button[type='submit']"
